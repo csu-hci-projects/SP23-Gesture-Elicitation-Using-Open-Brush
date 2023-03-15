@@ -7,7 +7,7 @@ public class PythonScript : MonoBehaviour {
     void Start () {
         var engine = Python.CreateEngine();
         var scope = engine.CreateScope();
-        var source = engine.CreateScriptSourceFromFile("./");
+        var source = engine.CreateScriptSourceFromFile(".");
         source.Execute(scope);
     }
 
