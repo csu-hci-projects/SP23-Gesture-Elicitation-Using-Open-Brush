@@ -67,6 +67,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9caa16a9b84ba0348ad36e3161bbb7ad, type: 2}
   - {fileID: 11400000, guid: a5d11f1cc2cc58b40b35812bd1aaa44b, type: 2}
   - {fileID: 11400000, guid: 9424fc476e4bbd1428ef23558ed76a68, type: 2}
+  - {fileID: 11400000, guid: b2a7ec5610088234a86f9408e9a6b6e2, type: 2}
+  - {fileID: 11400000, guid: e3dc990be35db5248a3bbc15f079ac5b, type: 2}
+  - {fileID: 11400000, guid: 332b412092a1f784abc92eda884ead35, type: 2}
   Environments:
   - {fileID: 11400000, guid: e7ee458a16eae2b48ac405f4ccc693e6, type: 2}
   - {fileID: 11400000, guid: 5effa9d950f0f5943b60c7dd24471505, type: 2}
