@@ -26,3 +26,12 @@ Note: The application may take a while to build the first time.
 
 Building the application from the Windows command line
 Use the build script in the Support/bin directory to specify the target platform and the build options you wish to enable. Run build —help to see the various build options.
+
+## OCCULUS QUEST NOT CONNECTING PROPERLY? 
+** Go to the following **URL** **https://www.tomsguide.com/how-to/how-to-connect-oculus-quest-2-to-a-pc** for a step bystep connection guide
+
+## Acknowledgements
+* Thank you to the Tilt Brush developers for your amazing work and for finding a way to open source the app! 
+* [SiMonk0](http://www.furjandesign.com/) for the great new logo!
+* The [SideQuest](https://sidequestvr.com/) team for your support.
+* [VR Rosie](https://twitter.com/vr_rosie) for promotional artwork, banners, and videos.
