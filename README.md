@@ -2,19 +2,19 @@
 
 Open Brush is a free fork of Tilt Brush, a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett. Our group from CSU deployed the application and came with improved ways to ease the use of base brush by creating custom brushes that can be implemented by users not wanting to use the base brush.
 
-##Building the application
+## Building the application
 Get the Open Brush open-source application running on your own devices.
 
-###Prerequisites
+### Prerequisites
 Unity 2021.3.9f1
 Python 3 (Optional — needed only if you wish to run the scripts in the Support/bin directory) Tested with Python 3.8.
 Running the application in the Unity editor
 Follow these steps when running the application for the first time:
 
-Start Unity.
-Go to File > Open Scene. \
-Select /Assets/Scenes/Main.unity. Unity should automatically prompt you to import TextMesh Pro.
-Choose Import TMP Essentials.
+1. Start Unity.
+2. Go to File > Open Scene. \
+3. Select /Assets/Scenes/Main.unity. Unity should automatically prompt you to import TextMesh Pro.
+4. Choose Import TMP Essentials.
 You can also do this through Window > TextMesh Pro > Import TMP Essential Resources.
 Press Play.
 These steps have been tested with Release 1.0.54.
