@@ -27,9 +27,10 @@ Note: The application may take a while to build the first time.
 Building the application from the Windows command line
 Use the build script in the Support/bin directory to specify the target platform and the build options you wish to enable. Run build —help to see the various build options.
 
-####
+### EXPERIENCING BUILD ERRORS?
+* The following link should help you solve build errors if any **https://levelup.gitconnected.com/unity-command-line-build-error-the-only-standalone-target-supported-is-windows-x64-with-openxr-ef0bec06e5**
 
-#### OCCULUS QUEST NOT CONNECTING PROPERLY? 
+### OCCULUS QUEST NOT CONNECTING PROPERLY? 
 * Go to the following **URL** **https://www.tomsguide.com/how-to/how-to-connect-oculus-quest-2-to-a-pc** for a step bystep connection guide
 
 ## Acknowledgements
