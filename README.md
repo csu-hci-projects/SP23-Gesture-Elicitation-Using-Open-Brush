@@ -8,7 +8,7 @@ Get the Open Brush open-source application running on your own devices.
 ### Prerequisites
 Unity 2021.3.9f1
 Python 3 (Optional — needed only if you wish to run the scripts in the Support/bin directory) Tested with Python 3.8.
-Running the application in the Unity editor
+### Running the application in the Unity editor
 Follow these steps when running the application for the first time:
 
 1. Start Unity.
@@ -19,7 +19,7 @@ You can also do this through Window > TextMesh Pro > Import TMP Essential Resour
 Press Play.
 These steps have been tested with Release 1.0.54.
 
-Building the application from the Unity editor
+### Building the application from the Unity editor
 Although it's possible to build Open Brush using the standard Unity build tools, we recommend using a build script to ensure the application builds with the correct settings. To run this script, go to Open Brush > Build > Do Build, or build from the Open Brush build window by navigating to Open Brush > Build > Build Window.
 
 Note: The application may take a while to build the first time.
