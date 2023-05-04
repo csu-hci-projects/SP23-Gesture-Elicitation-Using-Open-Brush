@@ -6,6 +6,8 @@ Open Brush is a free fork of Tilt Brush, a room-scale 3D-painting virtual-realit
 Get the Open Brush open-source application running on your own devices.
 
 ### Prerequisites
+![Instructions_HCI](https://user-images.githubusercontent.com/101088744/236285083-7ea8b44e-8a4f-4501-b570-df140fcf0568.jpeg)
+
 Unity 2021.3.9f1
 Python 3 (Optional — needed only if you wish to run the scripts in the Support/bin directory) Tested with Python 3.8.
 ### Running the application in the Unity editor
