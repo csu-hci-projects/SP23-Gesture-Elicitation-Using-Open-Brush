@@ -2,14 +2,9 @@
 
 Open Brush is a free fork of Tilt Brush, a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett. Our group from CSU deployed the application and came with improved ways to ease the use of base brush by creating custom brushes that can be implemented by users not wanting to use the base brush.
 
-## Building the application
-Get the Open Brush open-source application running on your own devices.
-
-### Prerequisites
 ![Instructions_HCI](https://user-images.githubusercontent.com/101088744/236285083-7ea8b44e-8a4f-4501-b570-df140fcf0568.jpeg)
 
-Unity 2021.3.9f1
-Python 3 (Optional — needed only if you wish to run the scripts in the Support/bin directory) Tested with Python 3.8.
+
 ### Running the application in the Unity editor
 Follow these steps when running the application for the first time:
 
