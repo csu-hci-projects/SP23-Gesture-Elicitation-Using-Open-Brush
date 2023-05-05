@@ -31,9 +31,9 @@ Use the build script in the Support/bin directory to specify the target platform
 * Easy fix in this **URL** **https://www.tomsguide.com/how-to/how-to-connect-oculus-quest-2-to-a-pc** for a step bystep connection guide
 
 ## Video Links :
- * Short overview video  **URL** ** https://youtu.be/H7eZV6DcjPo**
- *Presentation video **URL** ** https://youtu.be/kgu4FJZbFAI**
- *Explanation of code and experiment video **URL** ** https://youtu.be/XNQ1_BivUzw**
+ * Short overview video  ** https://youtu.be/H7eZV6DcjPo**
+ * Presentation video ** https://youtu.be/kgu4FJZbFAI**
+ *Explanation of code and experiment video ** https://youtu.be/XNQ1_BivUzw**
 
 ## Acknowledgements
 * Thank you to the Tilt Brush developers for your amazing work and for finding a way to open source the app! 
