@@ -1,6 +1,6 @@
 # SP23-Customizing the Features and Gesture Elicitation on Open Brush
 
-Open Brush is a free fork of Tilt Brush, a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett. Our group from CSU deployed the application and came with improved ways to ease the use of base brush by creating custom brushes that can be implemented by users not wanting to use the base brush.
+Open Brush is a free fork of Tilt Brush, a room-scale 3D-painting virtual-reality application available from Google, originally developed by Skillman & Hackett. Our group from CSU deployed the application and incorporated ways to improve the use of base brush by creating custom brushes that can be implemented by users not wanting to use the base brush.
 
 ![Instructions_HCI](https://user-images.githubusercontent.com/101088744/236285083-7ea8b44e-8a4f-4501-b570-df140fcf0568.jpeg)
 
@@ -21,14 +21,14 @@ Although it's possible to build Open Brush using the standard Unity build tools,
 
 Note: The application may take a while to build the first time.
 
-Building the application from the Windows command line
+### Building the application from the Windows command line
 Use the build script in the Support/bin directory to specify the target platform and the build options you wish to enable. Run build —help to see the various build options.
 
-### EXPERIENCING BUILD ERRORS?
-* The following link should help you solve build errors if any **https://levelup.gitconnected.com/unity-command-line-build-error-the-only-standalone-target-supported-is-windows-x64-with-openxr-ef0bec06e5**
+### Experiencing Build Errors?
+* Use the following link for troubleshooting **https://levelup.gitconnected.com/unity-command-line-build-error-the-only-standalone-target-supported-is-windows-x64-with-openxr-ef0bec06e5**
 
-### OCCULUS QUEST NOT CONNECTING PROPERLY? 
-* Go to the following **URL** **https://www.tomsguide.com/how-to/how-to-connect-oculus-quest-2-to-a-pc** for a step bystep connection guide
+### VR set not detected? 
+* Easy fix in this **URL** **https://www.tomsguide.com/how-to/how-to-connect-oculus-quest-2-to-a-pc** for a step bystep connection guide
 
 ## Acknowledgements
 * Thank you to the Tilt Brush developers for your amazing work and for finding a way to open source the app! 
