@@ -33,7 +33,7 @@ Use the build script in the Support/bin directory to specify the target platform
 ## Video Links :
  * Short overview video : https://youtu.be/H7eZV6DcjPo 
  * Presentation video : https://youtu.be/kgu4FJZbFAI
- *Explanation of code and experiment video : https://youtu.be/XNQ1_BivUzw
+ * Explanation of code and experiment video : https://youtu.be/XNQ1_BivUzw
 
 ## Acknowledgements
 * Thank you to the Tilt Brush developers for your amazing work and for finding a way to open source the app! 
